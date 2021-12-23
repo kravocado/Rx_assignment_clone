@@ -1,15 +1,12 @@
 # Rx_assignment_clone
 
-### 1. 홈 화면
-<img width="30%" src="https://user-images.githubusercontent.com/74251593/147186769-9a60d40a-d069-41b5-b559-074d819244eb.png"/>      
+### 1. Banner Paging
+<img src="https://user-images.githubusercontent.com/74251593/147191281-2aa1c515-4638-4ad7-9bfb-d17173eaba79.gif"/>      
 <hr/>
 
-### 2. 하트를 클릭하여 좋아요 표시
-<img width="30%" src="https://user-images.githubusercontent.com/74251593/147186777-88e91872-251c-4661-8fa8-f0b3d199b34f.png"/>      
+### 2. Refreshing, load More
+<img src="https://user-images.githubusercontent.com/74251593/147191291-0964e170-384b-4f50-90a2-62aeb9938e05.gif"/>      
 <hr/>
 
-### 3. 좋아요 화면
-<img width="30%" src="https://user-images.githubusercontent.com/74251593/147186782-0876e242-c978-4b0d-a161-5030440bb38f.png"/>
-<hr/>
-
-### 4. 시연
+### 3. 하트버튼 클릭 좋아요! 표시
+<img src="https://user-images.githubusercontent.com/74251593/147191292-fc02793f-82dc-42e2-8200-234564f20eed.gif"/>
