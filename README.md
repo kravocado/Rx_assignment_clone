@@ -8,5 +8,5 @@
 <img src="https://user-images.githubusercontent.com/74251593/147191291-0964e170-384b-4f50-90a2-62aeb9938e05.gif"/>      
 <hr/>
 
-### 3. 하트버튼 클릭 좋아요! 표시
+### 3. 하트버튼 클릭, 좋아요 화면 표시
 <img src="https://user-images.githubusercontent.com/74251593/147191292-fc02793f-82dc-42e2-8200-234564f20eed.gif"/>
