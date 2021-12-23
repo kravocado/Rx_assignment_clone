@@ -1,10 +1,10 @@
 # Rx_assignment_clone
 
-### 1. Banner Paging
+### 1. Banner paging
 <img src="https://user-images.githubusercontent.com/74251593/147191281-2aa1c515-4638-4ad7-9bfb-d17173eaba79.gif"/>      
 <hr/>
 
-### 2. Refreshing, load More
+### 2. Pull to refresh, Load more
 <img src="https://user-images.githubusercontent.com/74251593/147191291-0964e170-384b-4f50-90a2-62aeb9938e05.gif"/>      
 <hr/>
 
